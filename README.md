@@ -71,23 +71,7 @@ The project is organized into various folders to maintain a clean and scalable a
 • The project uses Joi to validate incoming request data, ensuring that only valid and correctly structured data is processed by the server.
 
 ## Folder Structure
-├── config
-│   └── database.js
-├── controllers
-│   └── userController.js
-├── migrations
-│   └── [timestamp]-create-user.js
-├── models
-│   └── user.js
-├── routes
-│   └── userRoutes.js
-├── validation
-│   └── userValidation.js
-├── seeders
-│   └── [timestamp]-seed-users.js
-├── services
-│   └── userService.js
-├── app.js
-└── package.json
+![image](https://github.com/user-attachments/assets/62466348-4435-451d-a884-57c59c4203e7)
+
 
 
